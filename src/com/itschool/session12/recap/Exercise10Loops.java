@@ -26,7 +26,7 @@ public class Exercise10Loops {
         }
 
         //alternative:
-        for for (int i = 0; i < myStringObj.length(); i++)
+        for (int i = 0; i < myStringObj.length(); i++)
         {
             if (myStringObj.charAt(i) != myStringObj.charAt(myStringObj.length() - 1 - i))
             {
